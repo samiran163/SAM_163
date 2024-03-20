@@ -1,0 +1,12 @@
+name: "My VM lists"
+demo-ec2:
+- name: my_vm_1
+  instance_type: t2.micro
+  image: ami-06f64fb0331ab61a0
+  sshkey: sample
+
+- name: my_vm_2
+  instance_type: t2.micro
+  image: ami-06f64fb0331ab61a0
+  sshkey: sample
+
